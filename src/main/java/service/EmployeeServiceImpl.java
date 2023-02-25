@@ -1,7 +1,7 @@
-package com.example.springbootproject.service;
+package service;
 
-import com.example.springbootproject.model.Employee;
-import com.example.springbootproject.repository.EmployeeRepository;
+import model.Employee;
+import repository.EmployeeRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;

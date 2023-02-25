@@ -1,7 +1,7 @@
-package com.example.springbootproject.service;
+package service;
 
 import java.util.List;
-import com.example.springbootproject.model.Employee;
+import model.Employee;
 import org.springframework.data.domain.Page;
 import org.springframework.stereotype.Service;
 
