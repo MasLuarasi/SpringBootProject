@@ -1,7 +1,8 @@
-package model;
+package com.example.springbootproject.model;
 
 import jakarta.persistence.*;
 import lombok.*;
+//import javax.persistence.*;
 
 @NoArgsConstructor
 @AllArgsConstructor

@@ -1,7 +1,7 @@
-package controller;
+package com.example.springbootproject.controller;
 
-import model.Employee;
-import service.EmployeeService;
+import com.example.springbootproject.model.Employee;
+import com.example.springbootproject.service.EmployeeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.stereotype.Controller;
